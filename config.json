@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Galería de Fotos de actividades proyecto del Dr. Carlos Motta",
+  "title": "Galería de Fotos de actividades. Proyecto del Dr. Carlos Motta",
   "sort-albums-by": "title",
   "sort-albums-direction": "desc",
   "sort-media-by": "filename",
